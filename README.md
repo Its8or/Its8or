@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my GitHub!</h1>
+<h1 align="center">Hi, I'm Heitor!</h1>
 
 ###
 
-<p align="center">Hi, I'm Heitor (8or)!<br>I am currently studying Computer Science.</p>
+<p align="center">I'm currently studying Computer Science.</p>
 
 ###
 
