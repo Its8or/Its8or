@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Its8or.Its8or&"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h3 align="center">Contact me</h3>
