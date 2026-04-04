@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -46,7 +46,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ###
