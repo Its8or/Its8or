@@ -2,6 +2,8 @@
 
 ### Olá, meu nome é Heitor!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Its8or&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<a href="https://github.com/Its8or?tab=repositories">
+    <img src="https://img.shields.io/static/v1?label=&message=check my projects&color=grey&style=for-the-badge&logo=github" alt="go to repositories">
+</a>
 
 <p>Acadêmico em Ciências da Computação.<br/> Eu sou desenvolvedor Python.</p>
