@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Its8or&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudo Ciências da Computação.<br/> Eu sou desenvolvedor A DECIDIR.</p>
+<p>Estudo Ciências da Computação.<br/> Eu sou desenvolvedor Python.</p>
