@@ -3,7 +3,11 @@
 ### Olá, meu nome é Heitor!
 
 <a href="https://github.com/Its8or?tab=repositories">
-    <img src="https://img.shields.io/static/v1?label=&message=my_projects&color=grey&style=for-the-badge&logo=github" alt="go to repositories">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Check_out_my_projects-green?style=for-the-badge&logo=github">
 </a>
 
-Acadêmico em Ciências da Computação.<br/> Eu sou desenvolvedor Python.
+<a href="https://www.linkedin.com/in/heitor-terto/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-View_LinkedIn_profile-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FIts8or%3Ftab%3Drepositories">
+</a>
+
+Acadêmico em Ciências da Computação.<br/>Estudando para ser Desenvolvedor Python e Web.
