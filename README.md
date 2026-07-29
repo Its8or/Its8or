@@ -5,7 +5,7 @@
 <a href="https://github.com/Its8or?tab=repositories">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Check_my_projects-green?style=for-the-badge">
 </a>
-</br>
+
 <a href="https://www.linkedin.com/in/heitor-terto/">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Check_my_LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FIts8or%3Ftab%3Drepositories">
 </a>
